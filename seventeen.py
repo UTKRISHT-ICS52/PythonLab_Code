@@ -6,4 +6,3 @@ if position != -1:
     print(f'The character "{char_to_find}" is found at position {position}.')
 else:
     print(f'The character "{char_to_find}" is not found in the string.')
-    
